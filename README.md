@@ -45,8 +45,8 @@
 ![image](https://github.com/Raji1009/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/89059861/a2228326-6899-4760-9b7f-dbf2334505da)
 ![image](https://github.com/Raji1009/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/89059861/7c451afd-ba8c-4935-95cb-1cb6f2c622e5)
 
-### Name: KAILASH PRABHU.S
-### Register Number: 24013672
+### Name: Thamizharasi G
+### Register Number: 24001123
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
